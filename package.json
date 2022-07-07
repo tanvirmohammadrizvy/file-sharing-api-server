@@ -1,0 +1,23 @@
+{
+  "name": "file-sharing-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvirmohammadrizvy/file-sharing-api-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanvirmohammadrizvy/file-sharing-api-server/issues"
+  },
+  "homepage": "https://github.com/tanvirmohammadrizvy/file-sharing-api-server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
